@@ -40,7 +40,7 @@ public class PlayerGrowth {
       
       for (int x = 0; x < 3; x++) {
          for (int y = 0; y < 3; y++) {
-            overalls[x][y] = 70;
+            overalls[x][y] = 50;
             experience[x][y] = 0;
          }
       }
